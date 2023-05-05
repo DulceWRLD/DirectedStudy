@@ -17,7 +17,7 @@ Adding a floor:
 
 In order to add a floor, right click on the building and navigate to where it says add
 
-You should now see another menu that has an option called "Floor". Click on that
+You should now see another menu that has an option called "Floors". Click on that
 
 This is what the menus should look like:
  <img src= "/Tutorial/Images/AddingFloors.png">
