@@ -79,4 +79,17 @@ Navigate to Siemens HVAC -> Heating, Ventilation, Air Conditioning -> Actuators
 This is what you should see:
 <img src= "/Tutorial/Images/Actuator.png">
 
-Now, click on 60B111.9E/KN
+Now, click on GDB111.9E/KN
+
+Adding the Presence detector:
+
+Navigate to Siemens -> physical sensors
+
+Click on Presence detector, brightness sensor up 268D12
+
+Adding the Temparature sensor:
+
+Navigate to Siemens HVAC -> Heating, Ventilation, Air Conditioning
+
+Click on QMX3 P37 Room unit
+
