@@ -13,6 +13,22 @@ Make sure the settings are the same as this screen:
 <img src= "/Tutorial/Images/ProjectScreen.png">
 
 ## ADDING THE NECCESITIES
+Adding Building Parts:
+
+In order to add a building part, right click on your project and navigate to where it says add
+
+You should now see another meu that has an option called "Building Parts"
+
+The menus should look like this:
+<img src= "/Tutorial/Images/AddingBuildingParts.png">
+
+You should now see a pop up that looks like this:
+<img src= "/Tutorial/Images/AddingBuildingPartsPopUp.png">
+
+Here you can enter the name of your Building Part
+
+Hit ok
+
 Adding a floor:
 
 In order to add a floor, right click on the building and navigate to where it says add
@@ -27,6 +43,8 @@ You should now see a pop up that looks like this:
 
 Here you can enter the name of your floor
 
+Hit ok
+
 Now to add a room:
 
 In order to add a room, right click on the floor and navigate to where it says add
@@ -38,3 +56,7 @@ This is what the menus should look like:
 
 You should now see a pop up that looks like this:
 <img src= "/Tutorial/Images/AddingRoomsPopUp.png">
+
+Here you can enter the name of your room
+
+Hit ok
