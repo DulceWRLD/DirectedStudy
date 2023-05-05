@@ -20,7 +20,21 @@ In order to add a floor, right click on the building and navigate to where it sa
 You should now see another menu that has an option called "Floors". Click on that
 
 This is what the menus should look like:
- <img src= "/Tutorial/Images/AddingFloors.png">
- You should now see a pop up that looks like this:
- <img src= "/Tutorial/Images/AddingFloorsPopUp.png">
+<img src= "/Tutorial/Images/AddingFloors.png">
+ 
+You should now see a pop up that looks like this:
+<img src= "/Tutorial/Images/AddingFloorsPopUp.png">
 
+Here you can enter the name of your floor
+
+Now to add a room:
+
+In order to add a room, right click on the floor and navigate to where it says add
+
+You should now see another menu that has an option called "Rooms". Click on that
+
+This is what the menus should look like:
+<img src= "/Tutorial/Images/AddingRooms.png">
+
+You should now see a pop up that looks like this:
+<img src= "/Tutorial/Images/AddingRoomsPopUp.png">
