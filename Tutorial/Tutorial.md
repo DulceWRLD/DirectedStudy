@@ -79,4 +79,4 @@ Navigate to Siemens HVAC -> Heating, Ventilation, Air Conditioning -> Actuators
 This is what you should see:
 <img src= "/Tutorial/Images/Actuator.png">
 
-Now, click on 
+Now, click on 60B111.9E/KN
