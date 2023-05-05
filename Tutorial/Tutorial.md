@@ -60,3 +60,23 @@ You should now see a pop up that looks like this:
 Here you can enter the name of your room
 
 Hit ok
+
+## ADDING YOUR DEVICES:
+Right click on the room and navigate to where it says add
+
+You should now see another menu that has an option called "Devices". Click on that
+
+This is what the menus should look like:
+<img src= "/Tutorial/Images/AddingDevices.png">
+
+Now it should pop up with a list of devices that look like this:
+<img src= "/Tutorial/Images/DevicesList.png">
+
+Adding the Actuator:
+
+Navigate to Siemens HVAC -> Heating, Ventilation, Air Conditioning -> Actuators
+
+This is what you should see:
+<img src= "/Tutorial/Images/Actuator.png">
+
+Now, click on 
