@@ -3,8 +3,9 @@ A detailed walkthrough on how to use ETS 6 in order to control a home automation
 ## SETUP
 Connect your knx/ip interface
 Start up ETS
-Make the project by hitting make new project
+Make the project by hitting the button that says "+New Project"
 
 You should now see a screen to make your project
+
 Make sure the settings are the same as this screen:
 <img src= "/Tutorial/Images/ProjectScreen.png">
