@@ -6,4 +6,4 @@ Start up ETS
 Make the project by hitting make new project
 You should now see a screen to make your project
 Make sure the settings are the same as this screen:
-<img src= "Tutorial/Images/ProjectScreen.png">
+<img src= "/DirectedStudy/Tutorial/Images/ProjectScreen.png">
