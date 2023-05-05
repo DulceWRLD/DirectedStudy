@@ -23,7 +23,7 @@ The menus should look like this:
 <img src= "/Tutorial/Images/AddingBuildingParts.png">
 
 You should now see a pop up that looks like this:
-<img src= "/Tutorial/Images/AddingBuildingPartsPopUp.png">
+<img src= "/Tutorial/Images/BuildingPartsPopUp.png">
 
 Here you can enter the name of your Building Part
 
