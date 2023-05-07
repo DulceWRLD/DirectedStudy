@@ -215,7 +215,7 @@ Now, you should see this in the group monitor to tell it's working:
 <img src= "/Tutorial/Images/Attack2Result.png">
 
 ##EXECUTING THE THIRD ATTACK
-Navigate to the INdividual Address CHeck section
+Navigate to the Individual Address Check section
 
 It should look like this:
 <img src= "/Tutorial/Images/IndividualAddressCheck.png">
@@ -234,4 +234,5 @@ Once the detector turns on, you should see it flashing indicating you have succe
 Those are all the attacks we did
 
 Here is a demo of all of the attack being executed together:
+
 https://youtu.be/cWh1C1_epDs
