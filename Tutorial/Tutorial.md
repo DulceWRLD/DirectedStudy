@@ -233,6 +233,6 @@ Once the detector turns on, you should see it flashing indicating you have succe
 
 Those are all the attacks we did
 
-Here is a demo of all of the attack being executed together:
+Here is a demo of all of the attacks being executed together:
 
 https://youtu.be/cWh1C1_epDs
